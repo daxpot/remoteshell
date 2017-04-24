@@ -1,7 +1,7 @@
 # remoteshell
 multi host remote shell
 
-最近遇到一个任务，需要给所有服务器配置nginx插件naxis，用来放置xss攻击。<br>
+最近遇到一个任务，需要给所有服务器配置nginx插件naxsi，用来放置xss攻击。<br>
 由于大概需要配置30个服务器左右，人工操作起来还是太麻烦了，于是写了这个shell脚本一键批量配置。<br>
 
 ## expect.sh
